@@ -21,8 +21,11 @@
 ---
 [![](https://komarev.com/ghpvc/?username=AhmdTheUzii&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://tako.id/Fuzii20) 
+ ## 💰 Support Me
+
+If you find my projects useful, you can support me here:
+
+[![Tako](https://img.shields.io/badge/Support%20me%20on-Tako-ff69b4?style=for-the-badge)](https://tako.id/Fuzii20)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
